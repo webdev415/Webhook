@@ -16,7 +16,7 @@
     "copy-to-clipboard": "^3.2.0",
     "highlight.js": "^9.15.10",
     "jquery": "^3.4.1",
-    "json-bigint": "^0.3.0",
+    "json-bigint": "^1.0.0",
     "laravel-echo": "^1.6.1",
     "laravel-elixir": "^6.0.0-18",
     "moment": "^2.24.0",
